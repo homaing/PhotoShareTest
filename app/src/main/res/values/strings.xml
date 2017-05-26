@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">PhotoShare</string>
+    <string name="photo_title_hint">Enter a title for the photo.</string>
+    <string name="photo_title_label">Title</string>
+    <string name="photo_details_label">Details</string>
+    <string name="photo_shared_label">Shared</string>
+    <string name="date_picker_title">Date of photo:</string>
+    <string name="new_photo">New Photo</string>
+    <string name="show_subtitle">Show Subtitle</string>
+    <string name="hide_subtitle">Hide Subtitle</string>
+    <string name="subtitle_format">%1$d photos</string>
+    <plurals name="subtitle_plural">
+        <item quantity="one">%1$d photo</item>
+        <item quantity="other">%1$d photos</item>
+    </plurals>
+    <string name="photo_contact_text">Choose Contact</string>
+    <string name="photo_share_text">Send A Message</string>
+    <string name="photo_report">%1$s. %5$s The photo was captured on %2$s. %3$s, and %4$s</string>
+    <string name="photo_report_shared">The photo is shared</string>
+    <string name="photo_report_unshared">The photo is not shared</string>
+    <string name="photo_report_contact">the contact is %s.</string>
+    <string name="photo_report_subject">PhotoShare Photo Report</string>
+    <string name="send_report">Send photo report via</string>
+    <string name="photo_report_no_contact">There is no contact</string>
+    <string name="change_view">Change View</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="search_photo">Search Photo</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="photo_comment">Add a comment here.</string>
+    <string name="sort_by_date">Sort by date</string>
+    <string name="sort_by_title">Sort by title</string>
+
+</resources>
